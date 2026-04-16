@@ -1,0 +1,9 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
+langchain==0.3.14
+langchain-community==0.3.14
+langchain-ollama==0.2.3
+langchain-chroma==0.2.2
+chromadb==0.6.3
+pymupdf==1.25.3
