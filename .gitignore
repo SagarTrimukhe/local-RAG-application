@@ -6,4 +6,3 @@ dist/
 chroma_data/
 backend/.venv/
 ollama_data/
-glp-design-workflow/

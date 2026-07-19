@@ -20,7 +20,7 @@ services:
       context: ./backend
     container_name: rag-backend
     ports:
-      - "8000:8000"
+      - "9000:9000"
     environment:
       - OLLAMA_BASE_URL=http://ollama:11434
       - LLM_MODEL=llama3.2
